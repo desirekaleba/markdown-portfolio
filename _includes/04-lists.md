@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Head First Ruby
+- Eloquent Ruby
+- Clean Code
+- Programming Ruby
+  - The hidden language of computer hardware and software
+  - The well grounded rubyist
